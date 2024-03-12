@@ -1,6 +1,6 @@
 <h2 align="center">
   My_Portfolio Website - v2.0<br/>
-  <a href="https://anurag.vercel.app/" target="_blank">anurag.tech</a>
+  <a href="https://my-portfolio-six-sigma-19.vercel.app/" target="_blank">Anurag_Reddy.Tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/Img1.png" />
@@ -31,7 +31,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal My_Portfolio <a href="https://anurag.vercel.app/" target="_blank">anurag.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal My_Portfolio <a href="[https://anurag.vercel.app/](https://my-portfolio-six-sigma-19.vercel.app/)" target="_blank">Anurag_Reddy.Tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
