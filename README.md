@@ -13,8 +13,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/Anurag1045/My_Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/Anurag1045/My_Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
@@ -25,7 +25,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://anurag.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://anurag.vercel.app/" target="_blank">anurag.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
