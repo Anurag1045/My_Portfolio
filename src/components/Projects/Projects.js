@@ -8,6 +8,8 @@ import Boston from "../../Assets/Projects/Boston.jpg";
 import Spotify from "../../Assets/Projects/Spotify_rtr_img.jpg";
 import Car from "../../Assets/Projects/Car.jpg";
 import supermarket from "../../Assets/Projects/super_market.jpg";
+import Netflix from "../../Assets/Projects/Netflix.jpg";
+import ECommerce from "../../Assets/Projects/Ecommerce.png";
 
 function Projects() {
   return (
@@ -31,6 +33,17 @@ function Projects() {
               ghLink="https://github.com/Anurag1045/Spotify_Top_50_Data_Analysis"
             />
           </Col>
+          
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Netflix}
+              isBlog={false}
+              title="Netflix Dashboard"
+              description="Developed an interactive Netflix Dashboard in Tableau to visualize key performance metrics, user engagement, and content analysis. The dashboard provides deep insights into viewer preferences, content popularity, and subscription trends. Leveraged advanced Tableau features such as calculated fields, parameter controls, and custom visualizations to enhance data exploration. This project demonstrates proficiency in data visualization and the ability to transform complex data into actionable insights."
+              ghLink="https://github.com/Anurag1045/Netflix-Dashboard"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -39,6 +52,16 @@ function Projects() {
               title="Super Market Sales"
               description="I spearheaded a dynamic sales analysis initiative for a prominent supermarket chain, utilizing advanced data analytics to dissect sales patterns and consumer behaviors. Through a meticulous examination of market dynamics, product placement optimization, and customer preferences, I delivered actionable insights that empowered strategic decision-making for the sales and marketing teams. Implementing data-driven strategies resulted in a substantial increase in both sales and customer satisfaction, showcasing my proficiency in translating complex datasets into impactful business solutions within the competitive retail landscape."
               ghLink="https://github.com/Anurag1045/Super_Market_Sales"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ECommerce}
+              isBlog={false}
+              title="ECommerce Dashboard"
+              description="A passionate Data Scientist specializing in healthcare analytics with strong expertise in machine learning, deep learning, and data visualization. Proficient in Python, Power BI, and web scraping. Successfully developed a comprehensive E-Commerce Dashboard and cricket team selection tool using advanced data analysis techniques. Seeking opportunities to leverage analytical skills in innovative projects."
+              ghLink="https://github.com/Anurag1045/ECommerce-PowerBI"
             />
           </Col>
 
