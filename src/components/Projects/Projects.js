@@ -10,6 +10,7 @@ import Car from "../../Assets/Projects/Car.jpg";
 import supermarket from "../../Assets/Projects/super_market.jpg";
 import Netflix from "../../Assets/Projects/Netflix.jpg";
 import ECommerce from "../../Assets/Projects/Ecommerce.png";
+import thelook from "../../Assets/Projects/thelook.png";
 
 function Projects() {
   return (
@@ -31,6 +32,17 @@ function Projects() {
               description="The purpose of this notebook is to analyze the dataset in place for top 50 Songs in Spotify. Per the initial data analysis, we may think of using appropriate machine learning algorithms to see patterns in the data if any Overall looking at the description of the data, it seems to be both a supervised as well as unsupervised learning problem, but we'll starting finding useful information first out of our data, post which we will focus on model building and its improvement.
               The idea is to overall explore the data and find as much information as possible."
               ghLink="https://github.com/Anurag1045/Spotify_Top_50_Data_Analysis"
+            />
+          </Col>
+
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={thelook}
+              isBlog={false}
+              title="TheLook- Ecommerce"
+              description="This dashboard provides a comprehensive analysis of website interaction, customer demographics, and order performance, revealing key insights into traffic sources, high-performing product categories, and profitable customer segments. Notable trends include the dominance of search traffic, the significant contributions from top customer bases in China, the USA, and Brazil, and the high profitability of specific age groups and product categories like Allegra K and intimates. The data also emphasizes the need for targeted marketing strategies, especially in cities with high customer densities, and operational readiness to handle projected exponential revenue growth."
+              ghLink="https://github.com/Anurag1045/TheLook-E-commerce"
             />
           </Col>
           
