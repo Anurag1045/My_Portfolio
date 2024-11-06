@@ -19,38 +19,34 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I'm deeply passionate about programming and technology, constantly expanding my knowledge and refining my skills.
               <br />
-              <br />I am fluent in classics like
+              <br />I am proficient in programming languages such as
               <i>
-                <b className="purple"> C++, Python and Java. </b>
+                <b className="purple"> C++, Python, and Java.</b>
               </i>
               <br />
               <br />
-              My field of Interest's are &nbsp;
+              My primary areas of interest include
               <i>
-                <b className="purple">Data Analysis and data Viz</b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Machine Learning.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing Projects
-              in <b className="purple">Data Science</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Machine Learning.
-                </b>
-              </i>
-              &nbsp; in
-              <i>
-                <b className="purple"> Jupyter Notebook & G-Colab</b>
-              </i>
-            </p>
+    <b className="purple"> Data Analysis, Data Visualization,</b>
+  </i> 
+  and fields related to 
+  <i>
+    <b className="purple"> Machine Learning</b>
+  </i>
+  <br />
+  <br />
+  I enjoy applying my skills to real-world projects, particularly in
+  <b className="purple"> Data Science</b> and
+  <i>
+    <b className="purple"> Machine Learning</b>
+  </i>
+  , utilizing tools like
+  <i>
+    <b className="purple"> Jupyter Notebook</b> and <b className="purple">Google Colab</b>.
+    </i>
+</p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
@@ -70,17 +66,19 @@ function Home2() {
                   href="https://github.com/Anurag1045"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
+                  aria-label="GitHub"
                 >
                   <AiFillGithub />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href=""
+                  href="https://twitter.com/YourTwitterHandle" // Replace with actual Twitter handle
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
+                  aria-label="Twitter"
                 >
                   <AiOutlineTwitter />
                 </a>
@@ -90,7 +88,8 @@ function Home2() {
                   href="https://www.linkedin.com/in/anurag45"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
+                  aria-label="LinkedIn"
                 >
                   <FaLinkedinIn />
                 </a>
@@ -101,6 +100,7 @@ function Home2() {
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
+                  aria-label="Instagram"
                 >
                   <AiFillInstagram />
                 </a>
@@ -112,4 +112,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;
